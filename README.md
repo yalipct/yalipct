@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Ali 👋
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+```javascript
+const ali = {
+  pronouns: "she" | "her",
+  code: [Java, Javascript, HTML, CSS],
+  tools: [Git, Docker],
+  architecture: ["microservices", "design system pattern"]  
+```
 
 <!--
 **yalipct/yalipct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
