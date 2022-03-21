@@ -1,4 +1,7 @@
-### Hi, I'm Ali 👋
+### Hi, I'm Ali 👋:woman_technologist:
+
+
+<img src="https://user-images.githubusercontent.com/75907090/159346974-ae3e6edd-2cac-44b0-bb69-2fd35ada0a43.png" alt="banner ali photo">
 
 ```javascript
 const ali = {
