@@ -7,7 +7,7 @@
 ```javascript
 const ali = {
   pronouns: "she" | "her",
-  code: [Java, Javascript, HTML, CSS, MySQL, Mongodb],
+  code: [Java, HTML, CSS, Javascript, MySQL, Mongodb],
   tools: [Git, Docker],
   architecture: ["microservices", "design system pattern"]  
 ```
